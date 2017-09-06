@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git is created to store data changes 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+git branch - pokazuje gałęzie projekty
+git branch "nazwa" - tworzy nową gałąź
+git checkout "branch name" - ustawia gałąź
+
+git -b new_brach_name == git branch new_brach_name
+						 git checkout new_brach_name
+
